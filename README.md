@@ -7,7 +7,7 @@ This repository contains a collection of practical exercises and additional mate
 
 Please upload your work to the following Google Drive: 
 
-https://drive.google.com/drive/folders/17gRnKo0FqGR363g7xMTJGfJGPOZtKfSd?usp=drive_link
+https://drive.google.com/drive/folders/17gRnKo0FqGR363g7xMTJGfJGPOZtKfSd?usp=sharing
 
 Ensure to:
   1. Rename the files with your name and registration number.
